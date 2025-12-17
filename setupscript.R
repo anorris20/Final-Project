@@ -38,7 +38,8 @@ packages <- c('tidyverse',
               'dplyr',
               'purrr',
               'plotly',
-              'scales')
+              'scales',
+              'usethis')
 
 ## Insert variable into function.
 packageLoad(packages)

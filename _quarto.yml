@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Final Project"
@@ -18,4 +19,5 @@ format:
     toc: true
 
 editor: visual
-
+  
+# ~ additional metadata excluded for brevity ~
