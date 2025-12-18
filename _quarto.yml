@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Gallery
-      - about.qmd
-      - inthemaking.qmd
+      - href: about.qmd
+        text: About
+      - href: inthemaking.qmd
+        text: In the Making
 
 format:
   html:
