@@ -22,7 +22,7 @@ format:
     theme:
       light:
         - simplex
-        - custom.scss
+        #- custom.scss
     css: styles.css
     toc: true
 
