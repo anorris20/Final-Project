@@ -1,31 +1,21 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - "*.qmd"
 
 website:
-  title: "SOFT RELIC STUDIO"
+  title: "Soft Relic Studio"
   site-url: https://anorris20.github.io/Final-Project
   navbar:
-    left:
-      - href: index.qmd
-        text: Gallery
-      - href: about.qmd
-        text: About
-      - href: inthemaking.qmd
-        text: In the Making
+    right:
+      - text: Gallery
+        href: index.qmd
+      - text: In the Making
+        href: inthemaking.qmd
+      - text: About
+        href: about.qmd
 
 format:
   html:
-    lightbox: true
-    theme:
-      light:
-        - simplex
-        #- custom.scss
-    css: styles.css
-    toc: true
-
-editor: visual
-  
-# ~ additional metadata excluded for brevity ~
+    theme: simplex
+    # comment out custom.scss if it doesn’t exist
+    # css: styles.css

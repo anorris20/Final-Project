@@ -23,7 +23,7 @@ This is not an extensive collection! **Contact me** for more samples.
 Skulls (and bones in general) have always been one of my favorite things to draw. Below is a boar skull, a fish skeleton, and a cat skull.
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | ![](illustration/boarskull.jpeg){.lightbox group="illustration"} | ![](illustration/fishskelly.jpeg){.lightbox group="illustration"} | ![](illustration/skullpelt.jpeg){.lightbox group="illustration"} |
 
 <br>
@@ -35,7 +35,7 @@ Skulls (and bones in general) have always been one of my favorite things to draw
 I've also been working on designing some coloring book pages. Here are a few:
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | ![Theme: Adventure in the Woods](illustration/cb1.jpeg){.lightbox group="illustration"} | ![Theme: Summertime](illustration/cb3.jpeg){.lightbox group="illustration"} | ![Theme: Fishin' trip](illustration/cb2.jpeg){.lightbox group="illustration"} |
 
 <br>
@@ -47,7 +47,7 @@ I've also been working on designing some coloring book pages. Here are a few:
 Here's where the theme of my art takes a turn. After one of the newest animated Spider-Man movies was released in theaters, I became obsessed with drawing new, original spider-person characters. The first two you see below are based on real spider species, while the third was a commission for a friend.
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | ![](illustration/spider1.jpeg){.lightbox group="illustration"} | ![](illustration/spider2.jpeg){.lightbox group="illustration"} | ![](illustration/spider3.jpeg){.lightbox group="illustration"} |
 
 <br>
@@ -71,7 +71,7 @@ Here's where the theme of my art takes a turn. After one of the newest animated 
 ## Paintings
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | ![](paintings/paint.jpeg){.lightbox group="painting"} | ![](paintings/squid.jpeg){.lightbox group="painting"} |
 
 <br>
@@ -85,12 +85,12 @@ Here's where the theme of my art takes a turn. After one of the newest animated 
 Pet portraits are my main commission request.
 
 |  |  |
-|------------------------------------|------------------------------------|
-| ![](pet portrait/indy.jpeg){.lightbox group="painting"} | ![](pet portrait/IMG_1549.jpg){.lightbox group="painting"} |
+|----|----|
+| ![](pet%20portrait/indy.jpeg){.lightbox group="painting"} | ![](pet%20portrait/IMG_1549.jpg){.lightbox group="painting"} |
 
 |  |  |
-|------------------------------------|------------------------------------|
-| ![](pet portrait/rice.jpeg){.lightbox group="painting"} | ![](pet portrait/catport.jpeg){.lightbox group="painting"} |
+|----|----|
+| ![](pet%20portrait/rice.jpeg){.lightbox group="painting"} | ![](pet%20portrait/catport.jpeg){.lightbox group="painting"} |
 
 <br>
 
@@ -101,9 +101,9 @@ Pet portraits are my main commission request.
 ## Digital Artwork
 
 |  |  |
-|---------------------------------|----------------------------------|
+|----|----|
 | ![](digital/IMG_0171.jpg){.lightbox group="illustration"} | ![](digital/IMG_0172.jpg){.lightbox group="illustration"} |
 
 |  |  |
-|-----------------------------------|-------------------------------------|
+|----|----|
 | ![](digital/IMG_0173.jpg){.lightbox group="illustration"} | ![](digital/shag.PNG){.lightbox group="illustration" width="314"} |
