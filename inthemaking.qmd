@@ -1,0 +1,49 @@
+---
+title: "In the Making"
+format:
+  html:
+    theme: simplex
+    styles: css 
+---
+
+A page for process documentation and future projects in the making.
+
+<BR>
+
+## The Process
+
+![](images/clipboard-2999494890.jpeg)
+
+::: photo-grid
+![](work/cat.jpeg)
+
+![](work/me.jpeg)
+
+![](work/skull1.jpeg)
+:::
+
+![](work/pastel.jpg)
+
+<br>
+
+------------------------------------------------------------------------
+
+## Future Projects
+
+::: callout-important
+The creative process isn't linear. These ideas are always subject to change, but they serve as ideas I'm currently interested in or as inspiration for future commissions!
+:::
+
+-   Fantasy character design (specifically for DND campaigns)
+
+-   Canvas & acrylic pet portraits, especially of dogs
+
+-   Hand-bleached t-shirt designs
+
+-   "Shag" inspired, mid-modern digital art
+
+<br>
+
+------------------------------------------------------------------------
+
+![A recent bleached t-shirt I made! (See the original fish skeleton sketch in the Gallery)](images/clipboard-2321325748.jpeg){fig-align="left" width="447"}

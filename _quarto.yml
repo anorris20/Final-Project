@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Final Project"
+  title: "SOFT RELIC STUDIO"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Gallery
       - about.qmd
+      - inthemaking.qmd
 
 format:
   html:
+    lightbox: true
     theme:
-      - cosmo
-      - brand
+      light:
+        - simplex
+        - custom.scss
     css: styles.css
     toc: true
 

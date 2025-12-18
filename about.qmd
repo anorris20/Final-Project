@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "About the Artist"
+about:
+  template: broadside
+  image: profile.jpeg
 ---
 
-About this site
+<br>
 
-```{r}
-1 + 1
-```
+**COLORADO-BASED ARTIST / ILLUSTRATOR**
+
+I wish I could say that I've finely-tuned one medium, one mode of creating art — But that would be untrue to myself. I create wherever inspiration strikes, in whatever form I feel most drawn to. I primarily focus on illustration (both on paper and digitally), but dabble in sculpting, jewelry-making, painting, collage making, and photography. The **joy of creating** **is in exploration**, which is why I'm hesitant to tether myself to one medium.
+
+<br>
+
+<br>
+
+Want to create together or commission a personalized art piece? Contact me at **driftedform\@gmail.com**!
