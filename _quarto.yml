@@ -6,7 +6,6 @@ project:
 
 website:
   title: "SOFT RELIC STUDIO"
-  site-url: https://anorris20.github.io/Final-Project/ 
   navbar:
     left:
       - href: index.qmd
